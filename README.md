@@ -1,7 +1,5 @@
-<h1 align="center">Hello 👋, I'm Tanjina Islam</h1>
+<h1 align="center">Hi 👋, I'm Tanjina Islam</h1>
 <h3 align="center">CSE Student | Tech Enthusiast</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tanjina-islam&label=Profile%20views&color=0e75b6&style=flat" alt="tanjina-islam" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanjina-islam" alt="tanjina-islam" /></a> </p>
 
